@@ -1,4 +1,9 @@
-## Hi there 👋
+[![focat's GitHub stats](https://github-readme-stats.vercel.app/api?username=notgoodusename&includeallcommits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![focat's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=notgoodusename&layout=compact&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=notgoodusename&label=Profile%20views&color=cf3777&style=for-the-badge" alt="notgoodusename's profile views" /> </p>
+<br>
+<br>
 
 <!--
 **notgoodusename/notgoodusename** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
